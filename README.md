@@ -27,15 +27,17 @@ Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Be
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ Java-blueviolet?style=plastic&logo=eclipseide&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
+    <img src="https://img.shields.io/badge/ OracleSQL-red?style=plastic"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ Spring-green?style=plastic&logo=Spring&logoColor=white"/>
 </span>
-   
+<span>
+    <img src="https://img.shields.io/badge/ SpringBoot-darkgreen?style=plastic&logo=SpringBoot&logoColor=white"/>
+</span>   
 <span>
     <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
 </span>
@@ -49,9 +51,9 @@ Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Be
     <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ AWS-black?style=plastic&logo=amazonwebservices&logoColor=white"/>
 </span>
-
+<br><br>
 </div>
 </div>
 
@@ -60,18 +62,20 @@ Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Be
 <div align="center">
 <!-- My profile -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinliuli&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=39% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinliuli&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinliuli&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=55% />
+  <img src="https://github-readme-stats.vercel.app/api?username=jinliuli&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/jinliuli/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jinliuli&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
 <!-- My snake -->
+<!--
 <img src="https://github.com/jinliuli/jinliuli/blob/output/mysnake.svg" width="100%">
-
+ -->
+ 
 <br><br>
 <!-- Hit counter -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinliuli%2Fjinliuli&count_bg=%23011053&title_bg=%2379B8EB&icon=salesforce.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
