@@ -2,7 +2,7 @@
 <!-- Header banner -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIMYURI&fontSize=90&animation=fadeIn&fontAlign=75&fontAlignY=30&desc=Profile&descAlignY=51&descAlign=93" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=334c80&height=200&section=header&text=KIMYURI&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlign=75&fontAlignY=30&desc=Profile&descAlignY=51&descAlign=93" width="100%"/>
 
 <!-- Title Typing Effect -->
 <!-- 
@@ -10,12 +10,10 @@
 -->
 
 <!-- My CV/resume -->
-<!-- 
-<div align="left">
-Hi! 🤗 My name is Yuri Kim 
+<div align="ceter">
+# Hi! ✨ My name is Yuri Kim
 </div>
 <br><br>
--->
 
 <details>
 <summary>About Me</summary>
@@ -29,32 +27,53 @@ Backend Developer
 Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Beijing Foreign Studies University, Beijing)   
 
 ## ADDITIONAL SKILLS
+<!-- 자바 -->
 <span>
-    <img src="https://img.shields.io/badge/ Java-blueviolet?style=plastic&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 </span>
+<!-- 스프링 -->
 <span>
-    <img src="https://img.shields.io/badge/ OracleSQL-red?style=plastic"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 </span>
+<!-- 스프링부트 -->
 <span>
-    <img src="https://img.shields.io/badge/ Spring-green?style=plastic&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </span>
+<!-- 스프링 시큐리티 -->
 <span>
-    <img src="https://img.shields.io/badge/ SpringBoot-darkgreen?style=plastic&logo=SpringBoot&logoColor=white"/>
-</span>   
-<span>
-    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 </span>
+<!-- JUnit5 -->
 <span>
-    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 </span>
+<!-- OracleSQL -->
 <span>
-    <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
+<img src="https://img.shields.io/badge/Oracle SQL-4479A1?style=for-the-badge&logo=OracleSQL&logoColor=white">
 </span>
+<!-- GitHub Actions -->
 <span>
-    <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 </span>
+<!-- HTML5 -->
 <span>
-    <img src="https://img.shields.io/badge/ AWS-black?style=plastic&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+</span>
+<!-- CSS3 -->
+<span>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+</span>
+<!-- JavaScript -->
+<span>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+</span>
+<!-- Thymeleaf -->
+<span>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+</span>
+<!-- AWS -->
+<span>
+<img src="https://img.shields.io/badge/ AWS-black?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </span>
 <br><br>
 </div>
@@ -86,5 +105,5 @@ Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Be
 <br><br><br><br>
 
 <!-- Footer banner -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=footer&text=&fontSize=0" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=334c80&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
