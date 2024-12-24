@@ -5,15 +5,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=334c80&height=200&section=header&text=KIMYURI&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlign=75&fontAlignY=30&desc=Profile&descAlignY=51&descAlign=93" width="100%"/>
 
 <!-- Title Typing Effect -->
-<!-- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Yuri+Kim;" alt="Typing SVG" /></a>
--->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=334c80&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Yuri+Kim;" alt="Typing SVG" /></a>
+<br><br>
 
 <!-- My CV/resume -->
+<!--
 <div align="ceter">
 # Hi! ✨ My name is Yuri Kim
 </div>
 <br><br>
+-->
 
 <details>
 <summary>About Me</summary>
