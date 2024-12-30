@@ -23,19 +23,15 @@ jobs:
     steps:
       # GitHub 사용자 기여 그래프를 기반으로 SVG 애니메이션 생성
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master  # Platane/snk 액션 사용
+        uses: Platane/snk/svg-only@v3  # Platane/snk 액션 사용
         with:
           github_user_name: jinliuli
-          # output branch에 gif, svg를 각각 생성
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          # 색상 및 테마 설정
-          palette: "github"  # 또는 "github-dark", "github-light" 등
-          color: "#ff0000"   # 원하는 색상 코드로 변경
+          outputs: |  # 생성된 SVG 파일의 경로 지정
+            dist/github-snake-dark.svg?color_snake=#7E5CAD&color_dots=#040D12,#3A4D39,#618264,#79AC78,#B0D9B1,#D0E7D2
 
       # 생성된 SVG 파일을 'output' 브랜치에 푸시
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3  # crazy-max 액션 사용
+        uses: crazy-max/ghaction-github-pages@v3.1.0  # crazy-max 액션 사용
         with:
           target_branch: output  # 푸시할 대상 브랜치
           build_dir: dist  # 푸시할 파일이 위치한 디렉토리
