@@ -96,9 +96,8 @@ Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Be
 </a>
 
 <!-- My snake -->
-<!--
-<img src="https://github.com/jinliuli/jinliuli/blob/output/mysnake.svg" width="100%">
- -->
+<img src="https://github.com/jinliuli/jinliuli/blob/output/github-contribution-grid-snake.svg" width="100%" />
+
  
 <br><br>
 <!-- Hit counter -->
