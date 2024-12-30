@@ -38,7 +38,7 @@ Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Be
 </span>
 <!-- 스프링부트 -->
 <span>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-005F0F?style=for-the-badge&logo=springboot&logoColor=white">
 </span>
 <!-- 스프링 시큐리티 -->
 <span>
@@ -52,10 +52,10 @@ Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Be
 <span>
 <img src="https://img.shields.io/badge/Oracle SQL-4479A1?style=for-the-badge&logo=OracleSQL&logoColor=white">
 </span>
-<!-- GitHub Actions -->
+<!-- GitHub Actions
 <span>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
-</span>
+</span> -->
 <!-- HTML5 -->
 <span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -70,7 +70,7 @@ Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Be
 </span>
 <!-- Thymeleaf -->
 <span>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/Thymeleaf-gray?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 </span>
 <!-- AWS -->
 <span>
