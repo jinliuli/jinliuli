@@ -85,7 +85,7 @@ Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Be
 <div align="center">
 <!-- My profile -->
 <a href="https://github.com/jinliuli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinliuli&layout=donut&langs_count=10&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="38%" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinliuli&layout=donut&langs_count=20&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="38%" alt="Top Languages"/>
 </a>
 <a href="https://github.com/jinliuli">
     <img src="https://github-readme-stats.vercel.app/api?username=jinliuli&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" alt="GitHub Stats"/>
