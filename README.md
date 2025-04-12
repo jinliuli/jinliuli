@@ -101,9 +101,10 @@ Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Be
  
 <br><br>
 <!-- Hit counter -->
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinliuli%2Fjinliuli&count_bg=%23011053&title_bg=%2379B8EB&icon=salesforce.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br><br><br>
-
+-->
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=334c80&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
