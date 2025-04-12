@@ -11,7 +11,6 @@
 <div align="left">   
 
 ## About Me
-Hi! ✨ My name is Yuri Kim.
 I'm a backend developer who enjoys solving problems and building practical systems.  
 I value collaboration, clean code, and continuous growth through real-world projects.
 
