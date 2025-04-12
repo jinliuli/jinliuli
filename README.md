@@ -7,17 +7,20 @@
 <br><br>
 
 <!-- My CV/resume -->
-
+<details>
+<summary>About Me</summary>
+    
 <div align="left">   
-
-## About Me
-I'm a backend developer who enjoys solving problems and building practical systems.  
+<br><br>
+    
+Hi! ✨ I'm Yuri Kim.<br>
+I'm a backend developer who enjoys solving problems and building practical systems.<br>
 I value collaboration, clean code, and continuous growth through real-world projects.
 
 ---
 
 ## Objective  
-To contribute as a reliable and growth-oriented software developer,  
+To contribute as a reliable and growth-oriented backend developer,
 leveraging hands-on experience and a collaborative mindset to deliver effective solutions.
 
 ---
@@ -73,7 +76,7 @@ Completed practical, project-based training with exposure to various technologie
 
 
 </div>
-
+</details>
 
 <br><br>
 <div align="center">
