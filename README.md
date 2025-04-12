@@ -1,7 +1,5 @@
 <div align="center">
 <!-- Header banner -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
--->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=334c80&height=200&section=header&text=KIMYURI&fontSize=90&animation=fadeIn&fontColor=ffffff&fontAlign=75&fontAlignY=30&desc=Profile&descAlignY=51&descAlign=93" width="100%"/>
 
 <!-- Title Typing Effect -->
@@ -9,78 +7,75 @@
 <br><br>
 
 <!-- My CV/resume -->
-<!--
-<div align="ceter">
-# Hi! ✨ My name is Yuri Kim
-</div>
-<br><br>
--->
 
-<details>
-<summary>About Me</summary>
+<div align="left">   
 
-<div align="left">  
+## About Me
+Hi! ✨ My name is Yuri Kim.
+I'm a backend developer who enjoys solving problems and building practical systems.  
+I value collaboration, clean code, and continuous growth through real-world projects.
 
-## OBJECTIVE
-Backend Developer
+---
 
-## EDUCATION
-Bachelor Degree of Chinese Language and Literature ```(06/2015 ~ 09/2019)``` (Beijing Foreign Studies University, Beijing)   
+## Objective  
+To contribute as a reliable and growth-oriented software developer,  
+leveraging hands-on experience and a collaborative mindset to deliver effective solutions.
 
-## ADDITIONAL SKILLS
-<!-- 자바 -->
+---
+
+## Education 
+**B.A. in Chinese Language and Literature**  
+*Beijing Foreign Studies University, China*  
+(2015.06 ~ 2019.09)
+
+---
+
+## TRAINING  
+**Java Developer Course (6 months, Government-sponsored)**  
+Completed practical, project-based training with exposure to various technologies including Java, Spring, SQL, JavaScript, and more.
+
+---
+
+## Tech Stacks  
+<!-- Backend -->
 <span>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-</span>
-<!-- 스프링 -->
-<span>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-</span>
-<!-- 스프링부트 -->
-<span>
-<img src="https://img.shields.io/badge/springboot-005F0F?style=for-the-badge&logo=springboot&logoColor=white">
-</span>
-<!-- 스프링 시큐리티 -->
-<span>
+<img src="https://img.shields.io/badge/SpringBoot-005F0F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/MyBatis-35495E?style=for-the-badge&logo=MyBatis&logoColor=white">
 </span>
-<!-- JUnit5 -->
+
+<!-- DB / Tools -->
 <span>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle SQL-4479A1?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/PL/SQL-F29111?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </span>
-<!-- OracleSQL -->
-<span>
-<img src="https://img.shields.io/badge/Oracle SQL-4479A1?style=for-the-badge&logo=OracleSQL&logoColor=white">
-</span>
-<!-- GitHub Actions
-<span>
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
-</span> -->
-<!-- HTML5 -->
+
+<!-- Frontend -->
 <span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-</span>
-<!-- CSS3 -->
-<span>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 </span>
-<!-- JavaScript -->
-<span>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-</span>
-<!-- Thymeleaf -->
-<span>
-<img src="https://img.shields.io/badge/Thymeleaf-gray?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-</span>
-<!-- AWS -->
-<span>
-<img src="https://img.shields.io/badge/ AWS-black?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-</span>
-<br><br>
-</div>
+
+---
+
+## Contact Me
+
+-  Email: jinliuli0305@gmail.com  
+-  Languages: Korean (Native), Chinese (Proficient), English (Basic)
+
+
 </div>
 
-</details>
+
 <br><br>
 <div align="center">
 <!-- My profile -->
