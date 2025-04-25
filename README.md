@@ -14,14 +14,14 @@
 <br><br>
     
 Hi! ✨ I'm Yuri Kim.<br>
-I'm a backend developer who enjoys solving problems and building practical systems.<br>
-I value collaboration, clean code, and continuous growth through real-world projects.
+I'm a backend developer who enjoys solving complex problems and building practical, user-oriented systems.<br>
+I value collaboration, writing clean code, and continuous learning through hands-on projects.
 
 ---
 
 ## Objective  
-To contribute as a reliable and growth-oriented backend developer,
-leveraging hands-on experience and a collaborative mindset to deliver effective solutions.
+To contribute as a reliable and growth-driven backend developer<br>
+by leveraging practical experience and a strong collaborative mindset to deliver effective solutions.
 
 ---
 
@@ -43,8 +43,8 @@ Completed practical, project-based training with exposure to various technologie
 <span>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-005F0F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-005F0F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-35495E?style=for-the-badge&logo=MyBatis&logoColor=white">
 </span>
